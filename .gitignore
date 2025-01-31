@@ -1,3 +1,5 @@
 .vscode/settings.json
 bin/Tabellina.class
 bin/UsaTabellina.class
+bin/Stampante.class
+bin/UsaStampante.class
