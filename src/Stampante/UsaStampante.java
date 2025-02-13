@@ -1,3 +1,5 @@
+package Stampante;
+
 public class UsaStampante {
     public static void main(String[] args) {
         Stampante prova = new Stampante();

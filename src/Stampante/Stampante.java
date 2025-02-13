@@ -1,3 +1,5 @@
+package Stampante;
+
 public class Stampante{
 
     private boolean myBoolean;

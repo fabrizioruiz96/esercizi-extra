@@ -4,3 +4,12 @@ bin/UsaTabellina.class
 bin/Stampante.class
 bin/UsaStampante.class
 bin/LoopInfinito.class
+bin/abc.class
+bin/UsaAbc.class
+bin/LoopABC/abc.class
+bin/LoopABC/UsaAbc.class
+bin/Stampante/Stampante.class
+bin/Stampante/UsaStampante.class
+bin/Tabellina/UsaTabellina.class
+bin/Tabellina/Tabellina.class
+bin/ArrayBello/ArrayBello.class
